@@ -49,37 +49,48 @@
 		<meta property="term" refines="#subject-6">sh2008113501</meta>
 		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">sh2008107227</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">The Brangwen Family Saga</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
+		<meta property="group-position" refines="#collection-1">2</meta>
+		<meta id="collection-2" property="belongs-to-collection">Modern Library’s 100 Best Novels</meta>
+		<meta property="collection-type" refines="#collection-2">set</meta>
+		<meta property="group-position" refines="#collection-2">49</meta>
+		<meta id="collection-3" property="belongs-to-collection">The BBC’s 100 Greatest British Novels (2015)</meta>
+		<meta property="collection-type" refines="#collection-3">set</meta>
+		<meta property="group-position" refines="#collection-3">75</meta>
+		<dc:description id="description">Two women experience and examine their romantic relationships with two men against the backdrop of early 20th Century England.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;Women in Love&lt;/i&gt; by &lt;a href="https://standardebooks.org/ebooks/d-h-lawrence"&gt;D.H. Lawrence&lt;/a&gt; is a profound exploration of relationships, sexuality, and societal conventions in early 20th-century England. Set against the backdrop of World War I, the novel follows the lives of two sisters, Ursula and Gudrun Brangwen, as they navigate love, desire, and independence. Ursula, a schoolteacher, seeks a deeper connection beyond societal expectations, while Gudrun, an artist, is drawn to passionate and tumultuous relationships. As they become involved with Rupert Birkin and Gerald Crich, two men from different social classes, the novel delves into the complexities of human emotions and the struggle for genuine intimacy in a world marked by societal constraints and emotional repression.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Women in Love&lt;/i&gt; was published as a sequel to &lt;a href="https://standardebooks.org/ebooks/d-h-lawrence/the-rainbow"&gt;&lt;i&gt;The Rainbow,&lt;/i&gt;&lt;/a&gt; although they were meant to be one book. Because &lt;i&gt;The Rainbow,&lt;/i&gt; was banned in the UK for 11 years, the UK publisher backed out of publishing &lt;i&gt;Women in Love&lt;/i&gt; due to the controversy of the first novel.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/4240</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/embed/womeninlove0000unse_k2f0</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Women_in_Love</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/d-h-lawrence_women-in-love</meta>
 		<dc:creator id="author">D. H. Lawrence</dc:creator>
 		<meta property="file-as" refines="#author">Lawrence, D. H.</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">David Herbert Lawrence</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/D._H._Lawrence</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/rwo/agents/n79018450</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Abbott Handerson Thayer</dc:contributor>
+		<meta property="file-as" refines="#artist">Thayer, Abbott Handerson</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Abbott_Handerson_Thayer</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/rwo/agents/n82151062</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Col Choat</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Choat, Col</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-2">Al Haines</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Haines, Al</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Bob R. Kenyon</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Kenyon, Bob R.</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://www.bobrk.com/</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
