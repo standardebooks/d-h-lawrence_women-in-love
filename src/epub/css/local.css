@@ -20,6 +20,11 @@
 	display: none;
 }
 
+[epub|type~="z3998:verse"] p span.i1{
+	padding-left: 2em;
+	text-indent: -1em;
+}
+
 @namespace xml "http://www.w3.org/XML/1998/namespace";
 
 blockquote[xml|lang]{
