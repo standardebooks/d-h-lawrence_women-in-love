@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="chapter-29.xhtml">
 		<ignore code="y-005">
+			<line>161</line>
 			<reason>Punctuation styled to match original source</reason>
 		</ignore>
 	</file>
