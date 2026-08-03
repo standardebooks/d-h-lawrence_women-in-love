@@ -69,7 +69,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/4240</dc:source>
 		<dc:source>https://archive.org/details/womeninlove0000unse_k2f0</dc:source>
-		<meta property="schema:wordCount">181449</meta>
+		<meta property="schema:wordCount">181447</meta>
 		<meta property="schema:educationalLevel">76.01</meta>
 		<link href="https://en.wikipedia.org/wiki/Women_in_Love" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
